@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Néstor, I'm a Computer Engineering and Data Science undergraduate student at National Autonomous University of Mexico (UNAM).
 
-The idea of this **README** is to highlight and get a quick access some of the projects I've worked on: both personal and school oriented. 
+The idea of this **README** is to highlight and get a quick access to some of the projects I've worked on: both personal and school oriented. 
 
 ## Personal Projects
  
