@@ -19,8 +19,6 @@ My name is Néstor, I'm a Computer Engineering and Data Science undergraduate st
 
 The idea of this **README** is to highlight and get a quick access some of the projects I've worked on: both personal and school oriented. 
 
----
-
 ## Personal Projects
  
 - [Competitive Programming Club @ UNAM's School of Engineering](https://github.com/CPCFI-org)
@@ -30,8 +28,6 @@ The idea of this **README** is to highlight and get a quick access some of the p
 - [Mexican Election Twitter Analyzer](https://github.com/nestorivanmo/twitter-mexican-elections)
 - [COVID-19 vaccine priorization](https://github.com/nestorivanmo/covid-19-vaccine-economic-sectors)
 - [FRESCO App](https://github.com/nestorivanmo/FRESCO)
-
----
 
 ## School Projects
 
