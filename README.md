@@ -21,7 +21,7 @@ The idea of this **README** is to highlight and get a quick access to some of th
 
 ## Personal Projects
  
-- [Competitive Programming Club @ UNAM's School of Engineering](https://github.com/CPCFI-org)
+- [CPCFI: Competitive Programming Club @ UNAM's School of Engineering](https://github.com/CPCFI-org)
   - [CPCFI's C++ problemset](https://github.com/CPCFI-org/slides-code)
   - [CPCFI's LaTeX Slides](https://github.com/nestorivanmo/CPCFI_LaTeX)
 - [ACM - ICPC preparation](https://github.com/nestorivanmo/icpc)
