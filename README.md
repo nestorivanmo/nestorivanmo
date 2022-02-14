@@ -25,6 +25,7 @@ The idea of this **README** is to highlight and get a quick access to some of th
 - [ACM - ICPC preparation](https://github.com/nestorivanmo/icpc)
 - [Mexican Election Twitter Analyzer](https://github.com/nestorivanmo/twitter-mexican-elections)
 - [COVID-19 vaccine priorization](https://github.com/nestorivanmo/covid-19-vaccine-economic-sectors)
+ - [Research paper](https://github.com/nestorivanmo/covid-19-vaccine-economic-sectors/blob/main/MartinezOstoaNestor_ProyectoFinal_MDA.pdf) 
 - [FRESCO App](https://github.com/nestorivanmo/FRESCO)
 
 ## School Projects
