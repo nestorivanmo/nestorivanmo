@@ -21,7 +21,7 @@ The idea of this **README** is to highlight and get a quick access to some of th
 
 ## Personal Projects
  
-- [CPCFI: Competitive Programming Club @ UNAM's School of Engineering](https://github.com/CPCFI-org)
+- [CPCFI: Competitive Programming Club @ UNAM's School of Engineering](http://www.cpcfi.unam.mx/)
 - [ACM - ICPC preparation](https://github.com/nestorivanmo/icpc)
 - [Mexican Election Twitter Analyzer](https://github.com/nestorivanmo/twitter-mexican-elections)
 - [COVID-19 vaccine priorization](https://github.com/nestorivanmo/covid-19-vaccine-economic-sectors)
